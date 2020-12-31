@@ -1,0 +1,6 @@
+Yes	No	Small	Infected
+Yes	Yes	Large	Infected
+No	Yes	Med	Infected
+No	No	Med	Clean
+Yes	No	Large	Clean
+No	No	Large	Clean

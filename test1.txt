@@ -1,0 +1,16 @@
+Morning	Master	Grass	True	Win
+Afternoon	Grand slam	Clay	True	Win
+Night	Friendly	Hard	False	Win
+Afternoon	Friendly	Mixed	False	Lose
+Afternoon	Master	Clay	True	Lose
+Afternoon	Grand slam	Grass	True	Win
+Afternoon	Grand slam	Hard	True	Win
+Afternoon	Grand slam	Hard	True	Win
+Morning	Master	Grass	True	Win
+Afternoon	Grand slam	Clay	True	Lose
+Night	Friendly	Hard	False	Win
+Night	Master	Mixed	True	Lose
+Afternoon	Master	Clay	True	Lose
+Afternoon	Master	Grass	True	Win
+Afternoon	Grand slam	Hard	True	Win
+Afternoon	Grand slam	Clay	True	Win
